@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "辉神鸟特化",
+    "version": 1,
+    "date": "2023-01-22",
+    "features": ["魔神仪", "暗恶魔"],
+    "code": "http://deck.ourygo.top?name=%E8%BE%89%E7%A5%9E%E9%B8%9F%E7%89%B9%E5%8C%96.ydk&ygotype=deck&v=1&d=HfhuNoGzeM3zFk5hQTAMsKhPqY1PtN8vmezfUTWiWlBXFWpGef3XGTlb0mA5-ZasUmWynpW9Lj0rJpUQpyQtfDHGpiG7fIaxPR3paeax1K9YDblqoe3YDIacNbPiEs-McXvDOMaTNa24bx0mOMshbIwq7BOkWUE08HKU42TTyoFamxW3xqC9VjZgcrUpDHMJ7OP-Ur-Biwpr2NnZwp7ebMs0w6SpI3VIGYhqYCxnm4pDkS3aW0PgF_3VyKFnolA"
+  },
+  {
+    "id": 2,
+    "name": "占术姬",
+    "version": 1,
+    "date": "2022-12-11",
+    "features": ["星遗物", "反转怪兽"],
+    "code": "http://deck.ourygo.top?name=%E5%8D%A0%E6%9C%AF%E5%A7%AC.ydk&ygotype=deck&v=1&d=Fd_tTGuW_Alz6uhlgTuwMtTM-pRqPGn6CS0JkZSfke2Ivup2tLOW1hLB2J1oVoURHCP3hBMY41MUrnpoxATpJHPwQfG9s00XGkPqqXXcMzNRraHFqtS-tDVEvWIibo5XqDlR5NIUTEQgp-EpJDr9S9KOjHd1O19ZHtq_yvrbVqUAiOp-ZBRVnLPnFRUJjn7J69DCbLGzSlllSpKb8Y6l6UdFunfOtBPePbh_QY3w6PlGt7ao"
+  },
+  {
+    "id": 3,
+    "name": "冰水",
+    "version": 1,
+    "date": "2020-10-18",
+    "features": ["兽带斗神"],
+    "code": "http://deck.ourygo.top?name=%E5%86%B0%E6%B0%B4.ydk&ygotype=deck&v=1&d=GMaBmaKi_qEakUOgyTSDTHgJ4ilEaNC-KXD_80mJpI23Bf07xR40sQCK2NqMdBGDSCRTc-0pvwx7THjHorPR4xje1mn5aumGz9RKhusvSC0ejqom8qs0ClKUGzeCBm9HmhxarVKqo1WEwNwhVrNhbIwq6P6vgmN2kmNsNRDVtiA5S3bxVZZbWiItBz0ClqtIQLBbX-Dbwu5fRwA"
+  }
+]

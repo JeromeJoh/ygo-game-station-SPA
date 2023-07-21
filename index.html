@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>VI-IX's YGO Game Station</title>
+  <link rel="shortcut icon" href="./favicon.ico" type="image/x-icon">
+  <script type="module" src="./src/index.ts" defer></script>
+</head>
+
+<body class="bg-stone-100 flex flex-col justify-center items-center space-y-4">
+
+  <!--Title Banner-->
+  <header class="w-4/5 flex flex-col select-none p-4 rounded-md my-10 font-['Righteous'] md:flex-row space-y-8 md:space-y-0 md:items-end">
+
+    <!--Logo-->
+    <div class="flex flex-col items-center px-4 space-y-2 md:items-start">
+      <img src="./src/assets/svg/spirit.svg" alt="" class="md:w-52 w-48">
+      <p class="md:text-4xl text-3xl whitespace-nowrap">VI-IX's YGO Game Station</p>
+    </div>
+
+    <!--Social Media-->
+    <nav class="h-fit flex justify-center items-center space-x-12 md:ml-auto ml-0 px-6 md:border-l-4 border-black">
+      <a href="https://space.bilibili.com/358777336"
+        target="_blank"
+        class="pt-2 text-2xl border-b-2 border-transparent hover:border-black">Bilibili</a>
+      <a href="https://www.zcool.com.cn/u/25192945"
+        target="_blank"
+        class="pt-2 text-2xl border-b-2 border-transparent hover:border-black">ZCOOL</a>
+    </nav>
+  </header>
+
+  <main class="w-4/5 rounded-md flex flex-col space-y-16">
+
+    <!--Decks-->
+    <section class="p-4 rounded-md">
+      <p class="font-['Righteous'] text-3xl mb-4">Decks</p>
+      <div id="deck-wrapper" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 md:gap-6 gap-10 min-w-max">
+      </div>
+    </section>
+
+    <!--Tools-->
+    <section class="p-4 rounded-md">
+      <p class="font-['Righteous'] text-3xl mb-4">Tools</p>
+      <div class="w-fit flex flex-col space-y-4 text-xl pl-2 text-blue-600">
+        <a href="http://ygopro.ysepan.com/" class="hover:text-slate-600" target="_blank">
+          <li>下载 YGO Pro</li>
+        </a>
+        <a href="https://ygopro2.com/download" class="hover:text-slate-600" target="_blank">
+          <li>下载 YGO Pro 2</li>
+        </a>
+        <a href="https://projectignis.github.io/download.html" class="hover:text-slate-600" target="_blank">
+          <li>下载 EDO Pro</li>
+        </a>
+        <a href="https://www.ygo-sem.cn/yrp/deck.aspx" class="hover:text-slate-600" target="_blank">
+          <li>卡组码转换工具</li>
+        </a>
+      </div>
+    </section>
+  </main>
+
+  <!--Credit-->
+  <footer class="pt-10 pb-4">
+    <p>&copy; Jerome Joh. 2023, All Rights Reserved.</p>
+  </footer>
+</body>
+
+</html>
